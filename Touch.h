@@ -1,6 +1,5 @@
-#ifndef __TOUCH_H_
-#define __TOUCH_H_
-
+#ifndef TOUCH.H
+#define TOUCH.H
 #include <Arduino.h>
 #include <avr/pgmspace.h>
 
